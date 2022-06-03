@@ -13,7 +13,7 @@ Nodejs 8 or higher is required. [Download Page](https://nodejs.org/en/download/)
 Open a terminal and execute the following command
 
 ```bash
-npm i -g @slimfish/vanity-wallet@latest
+npm i -g @slimfish/vanity-wallet-generator@latest
 ```
 
 ## Usage (Npm repository)
@@ -21,7 +21,7 @@ npm i -g @slimfish/vanity-wallet@latest
 Open a new terminal and execute the following command and follow the instructions
 
 ```bash
-npx wallet-creator
+npx vanity-wallet-generator
 ```
 
 ## Usage (From Source code)

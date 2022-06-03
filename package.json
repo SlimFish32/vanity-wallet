@@ -1,6 +1,6 @@
 {
   "name": "@slimfish/vanity-wallet-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small utility to create a vanity wallet address",
   "author": "Slim Fish <SlimFish32@protonmail.com>",
   "license": "MIT",
@@ -26,7 +26,7 @@
   ],
   "main": "./index.js",
   "bin": {
-    "wallet-creator": "./index.js"
+    "vanity-wallet-generator": "./index.js"
   },
   "engines": {
     "node": ">=10.0.0",
